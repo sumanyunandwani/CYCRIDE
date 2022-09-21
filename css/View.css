@@ -1,0 +1,131 @@
+.section {
+}
+
+.section-content {
+  width: 80%;
+  margin: 0 auto;
+  padding: 40px;
+  min-height: 490px;
+}
+
+.test_green {
+    background: url(./GREENBACK.png);  
+    background-repeat: no-repeat;
+    background-position: 50%;   
+    background-size: cover;
+}
+
+.image_service {
+    display: block;
+    margin-left: 5%;
+    margin-right: auto;
+    margin-top: 3%;
+    opacity: 0.95   ;
+    position: absolute;
+    height: 450px;
+}
+
+.section-dark {
+    background: #333;
+    color: white;
+}
+
+.nav {
+    background-color: var(--off-white);
+    position: sticky;
+    font-family: bold 'GlacialIndifferenceRegular';
+    font-weight: 500;
+    font-size: 130%;
+    top: 0px;
+    width: 100%;
+    height: 80px;
+    z-index: 1000;
+    box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
+}
+
+.home {
+    background: url(./home.jpeg);  
+    background-repeat: no-repeat;
+    background-position: 100%;   
+    background-size: cover;
+}
+
+.test_back {
+    width: 95%;
+    min-height: 490px;
+    padding: 40px;
+    position: relative;
+    background: url(./WHOWEARE.jpg);  
+    background-repeat: no-repeat;
+    background-position: 100%;   
+    background-size: cover;
+    color: black;
+}
+
+.test_back_service {
+    width: 95%;
+    min-height: 490px;
+    padding: 40px;
+    position: relative;
+    background: url(./WHOWEARE.jpg);  
+    background-repeat: no-repeat;
+    background-position: 100%;   
+    background-size: cover;
+    color: black;
+}
+
+.test_front {
+    margin: 0 auto;
+    width: 90%;
+    color: black;
+    min-height: 490px;
+    position: relative;
+    
+    
+}
+
+.black {
+    background-color:black;
+    background-position-x: center;
+    background-position-y: 15%;
+    margin-top: 5%;
+    height: 400px;
+    padding: 10px;
+    opacity: 0.8;
+    color: white;
+    position: absolute;
+}
+
+.who_we_are {
+    
+}
+
+.what_we_offer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    min-height: 528px;
+}
+
+.paper {
+    /* background-color;: theme.palette.background.paper; */
+    /* background-color: "rgb(175, 196, 85)"; */
+    background: url(./GREENBACK.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    border: 2px solid #000;
+    /* display: "flex"; */
+    width: 83%;
+    min-height: 60%;
+    overflow: auto;
+}
+
+
+
+  
+
+
+
+
+
